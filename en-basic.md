@@ -597,4 +597,390 @@
   - charitable corporation 没利润的公司
   - profitable 盈利的
 
-film reviewers 影评人
+- film reviewers 影评人
+
+
+# Core : Science and Technology
+
+- point and click 点击
+  - cock
+  - clock
+  - click
+
+- integrated circuit 集成电路
+  - integrate 融合
+  - integrate into foreign cultures 融入外国文化
+  - integration 融合
+  - cultural integration 文化融合
+  - integrity 完整性
+  - cultural integrity 文化完整性
+  - integrated 合成的、集成的
+  - circle -> circuit 环路、电路
+
+- online transaction 网上交易
+  - transact 交易
+
+- computer monitor 显示器
+  - monitor 监视器、显示器
+
+- projector 投影仪
+  - project 投射、投影
+
+- screen saver 屏保
+
+- virtual currency 虚拟货币
+  - virtual reality 虚拟现实
+  - virtue 美德、贞操
+  - virgin 处女
+  - virtual
+  - virtually 实际上地
+
+- computerized system 计算机化的工作系统
+  - ≈ computation 计算机自动化
+  - bar code 条形码
+  - E¬Z Pass machine 便利通行刷卡器
+
+- Internet distance learning 互联网远程学习
+
+- anti-virus program 杀毒软件
+  - anti-air 防空
+  - firewall
+
+- cordless telephone 无绳电话
+
+- cyberspace 虚拟空间
+  - cybercafe 网吧
+  - fabric 织物
+  - fabricate ≈ make up 编制、虚构
+  - fiber 纤维
+
+- desktop 台式机
+  - laptop 笔记本
+  - overlap 重叠
+  - palmtop 掌上电脑
+  - applaud 鼓掌
+
+- digital television 数字电视
+  - decade 十年
+  - decent 体面的
+  - decorate 装饰
+  - digit 数字
+  - video camera 摄像机
+
+- electronic hearing aid 电子助听器
+  - hearing 听力、听证会
+  - public hearing 听证会
+
+- fiber optic technology 光纤技术
+
+- genetic engineering 基因工程
+- hacker黑客
+
+- intelligent system 智能系统
+  - intellect 智慧、先知
+  - intellectual 智慧的、知识分子
+  - intellectual property 知识产权
+  - intelligent 智能的
+
+- IT industry 信息技术产业
+  - Information technology
+
+- minicomputer
+- multimedia learning system
+- palmtop
+- password
+- software package 软件压缩包
+
+- solar collector 太阳能收集器
+  - tollbooth collector 高速公路收费员
+  - toll 公路费
+  - booth 小亭子
+
+- terminal
+  - network terminal
+  - terminator 终结者
+  - transformer 变形金刚
+
+## psychology
+
+- psychology 心理学
+
+- neuroticism 神经质
+  - nerve 神经
+  - nervous 神经紧张的
+  - neurotic 神经过敏/神经质
+
+- snap reaction 瞬间反应
+  - reaction to rapid stimuli 对瞬间刺激做出反应
+
+- open-mindedness 心胸开阔
+
+- job screener 工作筛选者
+  - screener 筛选者
+  - job applicant 求职者
+
+- subconscious 下意识、潜意识
+  - instinct 本能
+  - basic instinct
+  - impulse 冲动
+  - buy something on impulse 冲动购物
+  - intuition 直觉
+  - insight 洞察力
+  - intelect 先知、智慧
+
+> we unconsciously associate fast food with speed and impatience , and carry those impulses into whatever else we're doing..
+
+- temptation 诱惑
+  - tame 驯服的、驯服
+  - tempt 引诱
+  - attempt 尝试、企图
+  - obedient 服从
+
+- bias 偏见
+  - prejudice 偏见
+
+- self-enhancing 自我抬高的
+  - height 高度
+  - heighten 提高
+  enhance 提高、美化
+
+- self-affirming 自我肯定
+  - firm 肯定的
+  - affirm 肯定
+
+- self-esteem 自我尊重
+  - estimate 评估
+  - esteem 尊敬、好评
+
+- illusory superiority 虚幻的优越感
+  - lunnar 月亮的
+  - illuminate 照亮
+  - illustrate 阐明
+  - illusory 虚幻的、幻觉的
+  - delusion 错觉
+
+
+# Core : Culture and Education
+
+- educational background 学力
+- educational history 学历
+- course
+  - curriculum 全部课程
+  - extracurricular 课外的
+  - compulsory courses 必修课
+    - required courses
+  - optional courses 选修课
+    - elective courses
+    - selective courses
+  - basic course 基础课
+  - specialized courses 专业课
+  - major 主修
+  - minor 辅修
+
+- educational hightlights 教学重点
+- specialized courses
+  - spy
+  - spect 看
+  - special
+  - specialize 专攻
+  - specialized courses
+  - speciality 专业、特产
+
+- social practice 社会实践
+  - part-time job
+  - full-time job
+  - in-job training 在职培训
+  - off-job training 脱产培训
+
+- extracurricular activities 课外活动
+  - recreational activities 娱乐活动
+    - creator 造物主
+    - recreation 再创造，休闲
+
+- academic activities 学术活动
+  - academy 研究院、专科院校
+  - academic 学术的
+
+- school
+  - scholar 学者
+  - scholarship 奖学金
+
+- excellent leader 优秀干部
+
+- student council 学生会
+  - consult 咨询、商议
+  - council 议会
+
+- culture
+  - cultivate 培养
+  - faculty 才能、全体教员
+
+- president 总统、校长
+  - resident 居民、百姓
+  - prime 首要的
+  - principal 校长、资金
+  - principle 原则
+  - headmaster 校长（中小学）
+
+- apartment 公寓
+  - department 部门、院系
+  - dean 院长、系主任
+  - department chairman 系主任
+
+- professor 教授
+  - associate professor 副教授
+  - guest professor 客座教授
+
+- lecture 演讲、讲课
+  - lecturer 讲师
+  - teaching assistant 助教
+
+- porter 校工
+
+- research fellow 研究员
+- supervisor 导师
+  - supervise 监督、指导
+  - vision 视力
+  - revise 校对
+  - advise 建议
+  - devise 设计出
+  - doctoral supervisor 博导
+
+- tall
+  - talent 天才
+  - gene
+  - genius 天才
+  - talent fair 招聘会
+
+- four levels
+  - undergraduate 本科生
+  - postgraduate 研究生
+  - doctoral student 博士生
+  - post doctorate 博士后
+
+- 几种学生的称谓
+  - freshman 新生（大一）
+  - sophisticated 老于世故的
+  - sophomore 大二学生
+  - junior 大三学生
+  - senior 大四学生
+  - auditor 旁听生
+  - audience 观众、听众
+  - guest student 旁听生
+  - day student 走读生
+  - boarder 住宿生
+  - dropout 辍学生
+  - govement-supported student 公费生
+  - intern 实习生
+
+- graduate-equivalent certificate 同等学力证书
+  - equivalent 等价的
+
+- adult-literacy program 成人文化课程
+  - literal 字面意思的
+  - literal translation 字面翻译
+  - literature 文学
+  - literacy 文化、识字能力
+
+> if you no three and no four, I'll give a color to see see.
+
+> if you tiger me, I would mountain you.
+
+
+- highter education 高等教育
+  - primary / elementary school 初中
+  - secondary / middle / high school 高中
+  - advanced courses 高等课程
+
+- out-of-class work 课外作业
+
+- admission standard 入学标准
+
+- semester 学期
+
+- expand enrollment 扩招
+  - roll 卷形物，名单
+
+- duck-stuffing 填鸭式
+
+- linguistic and culture diversity 语言及文化多样性
+  - language
+  - linguistic 语言的
+  - lingual 语言的、口语的
+  - bilingualism 双语
+  - vary -> divert 转向 -> diverse 多样的
+
+- cultural integrity 文化完整性
+- cultural integration 文化融合
+
+- endangered language 濒危语种
+  - endanger -> threaten
+
+
+# Core : Social Life of the west
+
+- baby boom 婴儿潮
+  - baby boomers 婴儿潮出生的人
+
+- questionnaire 问卷调查表
+  - millionaire 百万富翁
+  - nightmare 梦魇
+
+- social change 社会变革
+
+- social interrelationship 社会人际关系
+  - international
+  - interpersonal relationship 人际关系
+
+- social status 社会地位
+   - station 站
+   - status
+   - immigrant status 移民身份
+   - marital status 婚姻状况
+
+- mass media 大众传媒
+  - mass 大众
+  - massive 巨大的
+  - weapons of mass destruction 大规模杀伤性武器
+
+- commercial spheres 商业领域
+  - field
+  - sphere
+
+- marital instability 婚姻关系的不稳定
+
+- rotating shifts 轮班工作制（三班倒）
+  - day shifts 白班
+  - night shifts 夜班
+  - swing shifts 小夜班
+  - graveyard shifts 大夜班
+
+- familial relationship 家庭关系
+  - familia 家庭的
+  - familiar 熟悉的
+
+- single mother 单身母亲
+- single-parent child 单亲儿童
+
+- one-on-one ineraction 一对一的交流
+- face-to-face communication 面对面的交流
+- long distance learning 远程学习
+
+- telephone operator
+- tollbooth collector 高速公路收费员
+- service economy 服务型经济
+- expertise economy 专门知识型经济
+- 50 highest-paying occupation 50大高薪工作
+- extra money 外快
+- nest egg 私房钱
+
+- joint declaration 联合声明
+- audience rating 收视排行榜
+
+- free-lance writer 自由撰稿人
+
+- practitioner 从业者（医疗、法律）
+  - medical practitioner
+  - legal practitioner
+
+- publishing house 出版社
